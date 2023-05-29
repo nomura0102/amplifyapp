@@ -1,5 +1,11 @@
 # Getting Started with Create React App
-20230210-11
+20230525 node -v (v16.14.2) npm -v (8.5.0) amplify -v (12.0.0)
+20230529 C:\devops\amplifyapp\20230529Win Defender.png 発生
+    Node.js JavaScript Runtime 
+    Public Netwowk 許可を求める　ー＞　キャンセル対応
+    React マーク,　Hello fro V2 表示
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
